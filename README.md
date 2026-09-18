@@ -16,7 +16,7 @@ python grade_calculator.py
 Enter a grade: 95  
 95 is A
 
-Enter a grade: abc
+Enter a grade: abc  
 abc is not a number. Please enter a number
 
 ## Known limitations
