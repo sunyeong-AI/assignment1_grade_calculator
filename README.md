@@ -13,7 +13,7 @@ python grade_calculator.py
 
 ## Example
 
-Enter a grade: 95
+Enter a grade: 95  
 95 is A
 
 Enter a grade: abc
