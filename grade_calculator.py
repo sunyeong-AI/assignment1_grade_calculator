@@ -10,7 +10,7 @@ if grade < MIN_SCORE or grade > MAX_SCORE:
     print("Please enter a valid grade.")
     raise SystemExit(1)
 if grade >= 90.00:
-   result = "A"
+    result = "A"
 elif 60.00 <= grade < 90.00:
     result = "B"
 else:
