@@ -4,10 +4,8 @@ This is a simple grade calculator in Python. You type in a score from 0.00 to 10
 
 ## Setup
 
-```bash
-conda activate aigc5005
+conda activate aigc5005  
 pip install -r requirements.txt
-```
 
 ## Run
 
